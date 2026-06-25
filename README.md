@@ -84,15 +84,15 @@ All dimension tables are connected to the fact table using:
 **Purpose**: Identify risks and perfromance issues
 **Visuals:**
 1. Supplier Risk Matrix (Scatter)
-  - Core decision-making visual
+    - Core decision-making visual
 2. PPM Trend Over Time
-  - Tracks quality perfromance
+    - Tracks quality perfromance
 3. Lead Time vs Performance Score
-  - Identifies inefficient suppliers
+    - Identifies inefficient suppliers
 4. Top Suppliers by PPM
-  - Highlights worst performers
+    - Highlights worst performers
 5. Supplier Perfromance Table
-  - Detailed view of decision-making
+    - Detailed view of decision-making
 
 ---
 
