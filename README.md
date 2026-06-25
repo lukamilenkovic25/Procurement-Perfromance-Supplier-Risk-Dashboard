@@ -67,18 +67,18 @@ All dimension tables are connected to the fact table using:
 **Purpose**: Provide a high-level overview of procurement perfromance
 **Visuals:**
 1. KPI Cards
-  - Total Spend
-  - Savings Achievement %
-  - Avg Supplier Rating
-  - Avg On-Time Delivery
+    - Total Spend
+    - Savings Achievement %
+    - Avg Supplier Rating
+    - Avg On-Time Delivery
 2. Top Suppliers by Spend
-  - Identifies key cost drivers
+    - Identifies key cost drivers
 3. Unit Price Trend
-  - Shows price evolution over time
+    - Shows price evolution over time
 4. Savings vs Target
-  - Compares plan vs execution
+    - Compares plan vs execution
 5. Supplier Rating Distribution
-  - Shows overall supplier base quality
+    - Shows overall supplier base quality
 
 ### Supplier Risk & Quality Analysis
 **Purpose**: Identify risks and perfromance issues
